@@ -1,0 +1,1 @@
+g++ -std=c++11 -o0 task1.cpp -o traverse

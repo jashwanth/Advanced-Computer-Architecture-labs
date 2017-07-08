@@ -1,0 +1,3 @@
+g++ -std=c++11 -o0 task1.cpp -o traverse
+
+valgrind --dsymutil=yes --tool=cachegrind ./traverse 10000
